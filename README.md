@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Socket.io-000000?style=flat&logo=Socket.io&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Scss-cc6699?style=flat&logo=Sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867c0?style=flat&logo=Vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-ff4785?style=flat&logo=Storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled-components-db7093?style=flat&logo=styled-components&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /><br><br>
