@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhyejin&layout=compact&theme=dracula"><br><br>
+	  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyejin)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=juhyejin&show_icons=true&theme=dracula">
   <br><br>
   
